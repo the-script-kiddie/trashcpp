@@ -1,5 +1,8 @@
 //this program was made by anyone
-//yes
+//do not tell me that i skidded this, promise this was made by my own
+//no ai, no skid
+//made from my hands only
+//thank u for coming here
 #include <iostream>
 #include <windows.h>
 
